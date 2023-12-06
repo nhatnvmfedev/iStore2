@@ -1,0 +1,85 @@
+[
+    {
+     "id": 1,
+     "name": "Iphone 8",
+     "img": [
+        {"src": "iphone8-black.jpg", "color": "black"}
+        ],
+     "price": 450,
+     "stt": true,
+     "like": true
+    },
+    {
+     "id": 2,
+     "name": "Iphone XS",
+     "img": [
+        {"src": "iphoneXS-gold.jpg", "color": "gold"},
+        {"src": "iphoneXS-red.jpg", "color": "red"},
+        {"src": "iphoneXS-white.jpg", "color": "white"}
+        ],
+     "price": 650,
+     "stt": true,
+     "like": false
+    },
+    {
+     "id": 3,
+     "name": "Iphone 11",
+     "img": [
+        {"src": "iphone11-black.png", "color": "black"}
+        ],
+     "price": 450,
+     "stt": true,
+     "like": true
+    },
+    {
+     "id": 4,
+     "name": "Iphone 12",
+     "img": [
+        {"src": "iphone12-blue.jpg", "color": "blue"}
+        ],
+     "price": 1500,
+     "stt": false,
+     "like": true
+    },
+    {
+     "id": 5,
+     "name": "Iphone 12 Pro Max",
+     "img": [
+        {"src": "iphone12promax-blue.png", "color": "blue"}
+        ],
+     "price": 1520,
+     "stt": true,
+     "like": true
+    },
+    {
+     "id": 6,
+     "name": "Iphone X",
+     "img": [
+        {"src": "iphonex-white.png", "color": "white"},
+        {"src": "iphonex-black.jpg", "color": "black"}
+        ],
+     "price": 510,
+     "stt": true,
+     "like": true
+    },
+    {
+     "id": 7,
+     "name": "Iphone 11 Pro Max",
+     "img": [
+        {"src": "iphone11promax-mossgreen.png", "color": "mossgreen"}
+        ],
+     "price": 1400,
+     "stt": true,
+     "like": true
+    },
+    {
+     "id": 8,
+     "name": "Iphone 8 Plus",
+     "img": [
+      {"src": "iphone8plus-black.png", "color": "black"}
+      ],
+     "price": 320,
+     "stt": true,
+     "like": true
+    }
+   ]
